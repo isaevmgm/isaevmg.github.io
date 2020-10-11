@@ -358,3 +358,6 @@ footer {
 .footcoll:hover {
 	color: #ffe600;
 }
+.collogo {
+	filter: brightness(0) invert(1);
+}
